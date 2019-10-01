@@ -1,0 +1,4 @@
+pit_image,97
+wumpus_image,72
+pit_image,41
+gold_image,57
